@@ -1,0 +1,5 @@
+port: 8083
+bind: localhost
+
+healthcheckPort: 8093
+healthcheckBind: localhost
